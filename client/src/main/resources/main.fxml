@@ -1,0 +1,4 @@
+<?import javafx.scene.layout.VBox?>
+<VBox fx:controller="com.geekbrains.cloud.client.Controller"
+      xmlns:fx="http://javafx.com/fxml" alignment="center">
+</VBox>
